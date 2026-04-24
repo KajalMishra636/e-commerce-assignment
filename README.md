@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### 💡 Quick Launch Guide
 To get this project live, follow these steps in your terminal:
 
@@ -24,3 +25,6 @@ to
 (And change the `<Grid size={{...}}>` prop to `<Grid item xs={...}>`). 
 
 Everything else is set for a high-converting, animated ecommerce landing page!
+=======
+# e-commerce-assignment
+>>>>>>> 9f02c08f25208a0e9f22ea179a633d9b5a0ff029
